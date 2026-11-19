@@ -1,0 +1,23 @@
+{
+  "name": "Key Analysis - Portfolio Insights",
+  "short_name": "Key Analysis",
+  "description": "Portfolio Analysis & Time-Weighted Return (TWR) Tool",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#070d1e",
+  "theme_color": "#070d1e",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Key Analysis - Portfolio Insights",
+  "description": "Portfolio Analysis, Time-Weighted Return (TWR) & Multi-Broker Asset Manager connected to Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
